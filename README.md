@@ -19,6 +19,7 @@ The boilerplate is set up with :
 
 The project need a `dist` folder for *build*
 
+```bash
 ├── dist
 ├── package-lock.json
 ├── package.json
@@ -49,3 +50,4 @@ The project need a `dist` folder for *build*
 ├── tsconfig.json
 ├── tslint.json
 └── webpack.config.js
+```
